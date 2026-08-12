@@ -1,0 +1,6 @@
+{
+  "name": "Image Tools Pro",
+  "description": "Comprehensive bilingual (Hindi & English) image processing suite for resizing, converting, compressing, cropping, editing, background removal, PDF conversion, collage, meme, OCR, and batch processing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
